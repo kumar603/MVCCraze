@@ -3,7 +3,7 @@
 | **Epic**                                 | **Story / Task**                                     | **Purpose**              |
 | ---------------------------------------- | ---------------------------------------------------- | ------------------------ |
 | **Epic 1: ASP.NET MVC (Framework)**      | Create First MVC Project                             | Setup MVC Fundamentals   | Completed - WRITING > JIRA > VSIDE > Git
-|                                          | Understand Controllers, Actions, Routing             | Core MVC Concepts        |
+|                                          | Understand Controllers, Actions, Routing             | Core MVC Concepts        | Completed - WRITING > JIRA > VSIDE >
 |                                          | Learn Razor Views & ViewModel Binding                | UI Integration           |
 |                                          | Model Validations (Data Annotations)                 | Input Handling           |
 |                                          | Filters (Action, Exception, Authorization)           | Cross-Cutting Concerns   |
@@ -35,3 +35,28 @@
 |                                          | Minimal APIs Overview                                | Simplified Endpoints     |
 
  */
+
+
+
+
+First Time Git commands
+------------------------
+git init
+
+git add .
+
+git commit -m "Initial commit ASP.NET MVC Framework - Create First Project and Configurations"
+
+git remote add origin https://github.com/kumar603/MVCCraze.git
+
+git push -u origin master
+
+============================================================================
+
+After Initiated Commands
+-------------------------- 
+git add .
+
+git commit -m "ASP.NET MVC Framework - Create First Project and Configurations"
+
+git push

@@ -22,12 +22,14 @@ namespace MVCraze.Controllers
             Created By   : Kiran Kumar
             Changed Date : 22 - July - 2025
             Changed By   : Kiran Kumar
+            JIRA ID      : https://kiranjuvvanapudi.atlassian.net/browse/AMAECR-1
       *****************************************************************************************************/
-        //MVC           : MVC (Model-View-Controller) is a design pattern that separates concerns:
-        //Model         : Business logic and data , Views , View Models 
-        //View          : User interface CSHTML , Razor Views , HTML Helpers
-        //Controller    : Request handling and application flow Request from routing
-        //Project Configurations : Template MVC , References MVC and WebAPI , Authentication : None , Advanced : HTTP
+
+    //MVC           : MVC (Model-View-Controller) is a design pattern that separates concerns:
+    //Model         : Business logic and data , Views , View Models 
+    //View          : User interface CSHTML , Razor Views , HTML Helpers
+    //Controller    : Request handling and application flow Request from routing
+    //Project Configurations : Template MVC , References MVC and WebAPI , Authentication : None , Advanced : HTTP
     public class HomeController : Controller
     {
         public ActionResult Index()

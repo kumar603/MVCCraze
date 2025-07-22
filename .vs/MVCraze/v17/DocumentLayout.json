@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\DotNet\\JIRARecap\\MVCraze\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|C:\\DotNet\\JIRARecap\\MVCraze\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|c:\\dotnet\\jirarecap\\mvcraze\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|c:\\dotnet\\jirarecap\\mvcraze\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|c:\\dotnet\\jirarecap\\mvcraze\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|C:\\DotNet\\JIRARecap\\MVCraze\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|c:\\dotnet\\jirarecap\\mvcraze\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 260,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\ReadMe.txt",
+              "RelativeDocumentMoniker": "ReadMe.txt",
+              "ToolTip": "C:\\DotNet\\JIRARecap\\MVCraze\\ReadMe.txt",
+              "RelativeToolTip": "ReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-22T12:41:51.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -47,18 +64,17 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-22T08:41:50.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T08:41:50.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\DotNet\\JIRARecap\\MVCraze\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T08:41:35.065Z",
               "EditorCaption": ""

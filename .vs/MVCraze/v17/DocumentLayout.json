@@ -3,23 +3,35 @@
   "WorkspaceRootPath": "C:\\DotNet\\JIRARecap\\MVCraze\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|C:\\DotNet\\JIRARecap\\MVCraze\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|c:\\dotnet\\jirarecap\\mvcraze\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|c:\\dotnet\\jirarecap\\mvcraze\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|c:\\dotnet\\jirarecap\\mvcraze\\viewmodels\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|solutionrelative:viewmodels\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|c:\\dotnet\\jirarecap\\mvcraze\\views\\productsviewmodel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|solutionrelative:views\\productsviewmodel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|c:\\dotnet\\jirarecap\\mvcraze\\controllers\\productsviewmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|solutionrelative:controllers\\productsviewmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|C:\\DotNet\\JIRARecap\\MVCraze\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|c:\\dotnet\\jirarecap\\mvcraze\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|C:\\DotNet\\JIRARecap\\MVCraze\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|c:\\dotnet\\jirarecap\\mvcraze\\views\\products\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|C:\\DotNet\\JIRARecap\\MVCraze\\views\\products\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|solutionrelative:views\\products\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|c:\\dotnet\\jirarecap\\mvcraze\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|C:\\DotNet\\JIRARecap\\MVCraze\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,43 +50,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 260,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\Views\\Products\\List.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\List.cshtml",
-              "ToolTip": "C:\\DotNet\\JIRARecap\\MVCraze\\Views\\Products\\List.cshtml",
-              "RelativeToolTip": "Views\\Products\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-22T13:34:05.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\DotNet\\JIRARecap\\MVCraze\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T13:30:25.281Z",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\Views\\ProductsViewModel\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductsViewModel\\Details.cshtml",
+              "ToolTip": "C:\\DotNet\\JIRARecap\\MVCraze\\Views\\ProductsViewModel\\Details.cshtml",
+              "RelativeToolTip": "Views\\ProductsViewModel\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T16:07:02.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ProductsViewModel.cs",
+              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\ViewModels\\ProductsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProductsViewModel.cs",
+              "ToolTip": "C:\\DotNet\\JIRARecap\\MVCraze\\ViewModels\\ProductsViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ProductsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:03:08.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsViewModelController.cs",
+              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\Controllers\\ProductsViewModelController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsViewModelController.cs",
+              "ToolTip": "C:\\DotNet\\JIRARecap\\MVCraze\\Controllers\\ProductsViewModelController.cs",
+              "RelativeToolTip": "Controllers\\ProductsViewModelController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwBsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:54:56.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "C:\\DotNet\\JIRARecap\\MVCraze\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAuwCIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T13:15:25.849Z",
               "EditorCaption": ""
@@ -87,14 +112,38 @@
               "RelativeDocumentMoniker": "ReadMe.txt",
               "ToolTip": "C:\\DotNet\\JIRARecap\\MVCraze\\ReadMe.txt",
               "RelativeToolTip": "ReadMe.txt",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAUAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-07-22T12:41:51.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\DotNet\\JIRARecap\\MVCraze\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T13:30:25.281Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\Views\\Products\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\List.cshtml",
+              "ToolTip": "C:\\DotNet\\JIRARecap\\MVCraze\\Views\\Products\\List.cshtml",
+              "RelativeToolTip": "Views\\Products\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T13:34:05.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
@@ -107,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -115,12 +164,11 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-22T08:41:50.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T08:41:50.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -128,8 +176,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T08:41:35.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T08:41:35.065Z"
             }
           ]
         }

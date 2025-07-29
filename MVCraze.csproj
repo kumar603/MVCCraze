@@ -203,6 +203,8 @@
     <Content Include="Views\ProductsViewModel\Details.cshtml" />
     <Content Include="Views\Students\Register.cshtml" />
     <Content Include="Views\Home\Login.cshtml" />
+    <Content Include="Views\Shared\_Header.cshtml" />
+    <Content Include="Views\Shared\_Footer.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

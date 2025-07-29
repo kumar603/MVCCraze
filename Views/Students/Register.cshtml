@@ -12,9 +12,9 @@
      * Important keywords or logic statements
 
     * @model Student - It contains the Student model and its fields
-     
+
     * Html.BeginForm() - "BeginForm()" is an extension method that writes an opening "<form>" tag
-    
+
     *  @Html.AntiForgeryToken() - @Html.AntiForgeryToken() is an ASP.NET MVC helper method that generates a hidden
                                     form field containing an anti-forgery token.
                                      This token is a crucial component in mitigating Cross-Site Request Forgery (CSRF) attacks.
@@ -22,15 +22,15 @@
      * @Html.ValidationSummary() - It is an ASP.NET MVC HTML Helper method used to display a summary of all validation errors
                                   that are present in the ModelStateDictionary object.
 
-    * @Html.LabelFor -  is an ASP.NET MVC HTML Helper method used in Razor views to generate 
+    * @Html.LabelFor -  is an ASP.NET MVC HTML Helper method used in Razor views to generate
                         an HTML <label> element for a specific property of a model object.
-   
+
     * @Html.EditorFor - is an ASP.NET MVC HTML Helper method used in Razor views to generate HTML input
-                        elements based on the data type of a model property. It is strongly typed, 
+                        elements based on the data type of a model property. It is strongly typed,
                         meaning it uses lambda expressions to specify the model property it should generate an editor for.
-  
+
     * @Html.ValidationMessageFor - is an ASP.NET MVC HTML helper method used to display validation error messages associated
-                        with a specific model property. It is a strongly-typed helper, meaning it directly binds to a property of your model, 
+                        with a specific model property. It is a strongly-typed helper, meaning it directly binds to a property of your model,
                         enabling compile-time checking and improved readability.
 
     */
@@ -38,11 +38,16 @@
 
 @model MVCraze.Models.Student
 
+
+
+<!-- Views/Students/Register.cshtml -->
 @{
+    Layout = "~/Views/Shared/_Layout.cshtml";
     ViewBag.Title = "Register";
 }
 
-<h2>Register</h2>
+<h2>Student Registration</h2>
+@* Form code can go here *@
 
 @using (Html.BeginForm())
 {

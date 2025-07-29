@@ -3,19 +3,35 @@
   "WorkspaceRootPath": "C:\\DotNet\\JIRARecap\\MVCraze\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|c:\\dotnet\\jirarecap\\mvcraze\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|C:\\DotNet\\JIRARecap\\MVCraze\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|c:\\dotnet\\jirarecap\\mvcraze\\viewmodels\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|c:\\dotnet\\jirarecap\\mvcraze\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|c:\\dotnet\\jirarecap\\mvcraze\\views\\students\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|solutionrelative:views\\students\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|C:\\DotNet\\JIRARecap\\MVCraze\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|C:\\DotNet\\JIRARecap\\MVCraze\\viewmodels\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|solutionrelative:viewmodels\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|c:\\dotnet\\jirarecap\\mvcraze\\views\\productsviewmodel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|C:\\DotNet\\JIRARecap\\MVCraze\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|C:\\DotNet\\JIRARecap\\MVCraze\\views\\productsviewmodel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|solutionrelative:views\\productsviewmodel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|c:\\dotnet\\jirarecap\\mvcraze\\controllers\\productsviewmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|C:\\DotNet\\JIRARecap\\MVCraze\\controllers\\productsviewmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B66E4B0-F582-4D51-B5C0-A972FEEA5F07}|MVCraze.csproj|solutionrelative:controllers\\productsviewmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -50,11 +66,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 260,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\DotNet\\JIRARecap\\MVCraze\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T06:51:36.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\Views\\Students\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Register.cshtml",
+              "ToolTip": "C:\\DotNet\\JIRARecap\\MVCraze\\Views\\Students\\Register.cshtml",
+              "RelativeToolTip": "Views\\Students\\Register.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T06:24:13.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\DotNet\\JIRARecap\\MVCraze\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T06:21:30.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\DotNet\\JIRARecap\\MVCraze\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T06:08:03.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\Views\\ProductsViewModel\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\ProductsViewModel\\Details.cshtml",
@@ -62,25 +130,23 @@
               "RelativeToolTip": "Views\\ProductsViewModel\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-22T16:07:02.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T16:07:02.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ProductsViewModel.cs",
               "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\ViewModels\\ProductsViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\ProductsViewModel.cs",
               "ToolTip": "C:\\DotNet\\JIRARecap\\MVCraze\\ViewModels\\ProductsViewModel.cs",
               "RelativeToolTip": "ViewModels\\ProductsViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T16:03:08.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T16:03:08.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ProductsViewModelController.cs",
               "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\Controllers\\ProductsViewModelController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsViewModelController.cs",
@@ -88,12 +154,11 @@
               "RelativeToolTip": "Controllers\\ProductsViewModelController.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAuwBsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T15:54:56.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T15:54:56.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
@@ -101,25 +166,23 @@
               "RelativeToolTip": "Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T13:15:25.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T13:15:25.849Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ReadMe.txt",
               "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\ReadMe.txt",
               "RelativeDocumentMoniker": "ReadMe.txt",
               "ToolTip": "C:\\DotNet\\JIRARecap\\MVCraze\\ReadMe.txt",
               "RelativeToolTip": "ReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAChAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-22T12:41:51.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T12:41:51.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
@@ -131,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "List.cshtml",
               "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\Views\\Products\\List.cshtml",
               "RelativeDocumentMoniker": "Views\\Products\\List.cshtml",
@@ -143,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
@@ -156,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -168,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\DotNet\\JIRARecap\\MVCraze\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",

@@ -5,7 +5,7 @@
 | **Epic 1: ASP.NET MVC (Framework)**      | Create First MVC Project                             | Setup MVC Fundamentals   | Completed - WRITING > JIRA > VSIDE > Git
 |                                          | Understand Controllers, Actions, Routing             | Core MVC Concepts        | Completed - WRITING > JIRA > VSIDE > Git
 |                                          | Learn Razor Views & ViewModel Binding                | UI Integration           | Completed - WRITING > JIRA > VSIDE > Git
-|                                          | Model Validations (Data Annotations)                 | Input Handling           |
+|                                          | Model Validations (Data Annotations)                 | Input Handling           | Completed - WRITING > JIRA > VSIDE > Git
 |                                          | Filters (Action, Exception, Authorization)           | Cross-Cutting Concerns   |
 |                                          | Implement Layouts, Partial Views                     | UI Consistency           |
 |                                          | Bundling & Minification                              | Performance Optimization |

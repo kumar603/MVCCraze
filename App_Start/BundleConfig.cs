@@ -5,7 +5,7 @@ namespace MVCraze
 {
     /*****************************************************************************************************
       Writer       : Kiran Kumar J
-      Description  : Bubdle Minification of the files to optimize the code
+      Description  : Bundle Minification of the files to optimize the code
       Created Date : 29 - July - 2025
       Created By   : Kiran Kumar
       Changed Date : 29 - July - 2025

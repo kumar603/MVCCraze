@@ -23,9 +23,11 @@ namespace MVCraze.Controllers
      * ModelState.IsValid - Validates if the form submitted matches the criteria of model data annotations
      * RedirectToAction - If form is validated redirects to the another form else it will display the message
      * Return View - if form is not validated then it returns the same model of student along with required fields
+     * [Authorize] -  Protect Controllers or Actions 
      */
     [LogActionFilter]
     [CustomAuthorize] //This ensures that if Session["User"] is not set, the user is redirected to Home/Login.
+    [Authorize]
     public class StudentsController : Controller
     {
         // GET: Students

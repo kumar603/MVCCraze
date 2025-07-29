@@ -1,4 +1,5 @@
-﻿using MVCraze.Models;
+﻿using MVCraze.Filters;
+using MVCraze.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,6 +24,8 @@ namespace MVCraze.Controllers
      * RedirectToAction - If form is validated redirects to the another form else it will display the message
      * Return View - if form is not validated then it returns the same model of student along with required fields
      */
+    [LogActionFilter]
+    [CustomAuthorize] //This ensures that if Session["User"] is not set, the user is redirected to Home/Login.
     public class StudentsController : Controller
     {
         // GET: Students

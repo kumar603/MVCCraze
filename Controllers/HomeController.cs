@@ -1,4 +1,5 @@
 ﻿using Antlr.Runtime.Misc;
+using MVCraze.Filters;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,8 +31,27 @@ namespace MVCraze.Controllers
     //View          : User interface CSHTML , Razor Views , HTML Helpers
     //Controller    : Request handling and application flow Request from routing
     //Project Configurations : Template MVC , References MVC and WebAPI , Authentication : None , Advanced : HTTP
+
+    [LogActionFilter]
     public class HomeController : Controller
     {
+        public ActionResult Login()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult Login(string username)
+        {
+            if (!string.IsNullOrEmpty(username))
+            {
+                Session["User"] = username;
+                return RedirectToAction("Register", "Students");
+            }
+
+            ViewBag.Message = "Invalid login.";
+            return View();
+        }
         public ActionResult Index()
         {
             return View();

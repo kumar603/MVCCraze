@@ -60,3 +60,32 @@ git add .
 git commit -m "ASP.NET MVC Framework - Create First Project and Configurations"
 
 git push
+
+
+
+Create Custom Filters files and folder structures
+/MVCraze
+│
+├── Controllers/
+│   ├── HomeController.cs
+│   └── StudentsController.cs
+│
+├── Filters/					<-- ✅ Create this folder manually
+│   ├── LogActionFilter.cs          ✅ For logging
+│   ├── CustomAuthorize.cs          ✅ For session-based auth
+│   └── CustomExceptionFilter.cs    ✅ For global error catching
+│
+├── Views/
+│   ├── Home/
+│   │   ├── Index.cshtml
+│   │   └── Login.cshtml
+│   ├── Students/
+│   │   └── Register.cshtml
+│   └── Shared/
+│       └── Error.cshtml
+│
+├── App_Start/
+│   └── FilterConfig.cs     ✅ Register global exception filter here
+│
+├── Global.asax
+└── Web.config

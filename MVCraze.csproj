@@ -137,6 +137,9 @@
     <Compile Include="Controllers\ProductsController.cs" />
     <Compile Include="Controllers\ProductsViewModelController.cs" />
     <Compile Include="Controllers\StudentsController.cs" />
+    <Compile Include="Filters\CustomAuthorize.cs" />
+    <Compile Include="Filters\CustomExceptionFilter.cs" />
+    <Compile Include="Filters\LogActionFilter.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -199,6 +202,7 @@
     <Content Include="Views\Products\List.cshtml" />
     <Content Include="Views\ProductsViewModel\Details.cshtml" />
     <Content Include="Views\Students\Register.cshtml" />
+    <Content Include="Views\Home\Login.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

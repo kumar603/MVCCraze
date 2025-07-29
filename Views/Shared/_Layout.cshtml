@@ -1,4 +1,20 @@
-﻿<!DOCTYPE html>
+﻿@*
+      /*****************************************************************************************************
+          Writer       : Kiran Kumar J
+          Description  : Include the Bundle Minification into _layout.cshtml file
+          Created Date : 29 - July - 2025
+          Created By   : Kiran Kumar
+          Changed Date : 29 - July - 2025
+          Changed By   : Kiran Kumar
+          JIRA ID      : https://kiranjuvvanapudi.atlassian.net/browse/AMAECR-7
+    *****************************************************************************************************/
+        /*
+         * Important keywords or logic statements
+         * @Styles.Render("~/Content/css") - Renders bundled CSS
+         * @Scripts.Render("~/bundles/jquery") - Renders bundled JS  
+         */
+*@
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -17,14 +33,14 @@
             </button>
             <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
                 @*<ul class="navbar-nav flex-grow-1">
-            <li>@Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "nav-link" })</li>
-            <li>@Html.ActionLink("Register Student", "Register", "Students", new { area = "" }, new { @class = "nav-link" })</li>
-            <li>@Html.ActionLink("About", "About", "Home", new { area = "" }, new { @class = "nav-link" })</li>
-            <li>@Html.ActionLink("Contact", "Contact", "Home", new { area = "" }, new { @class = "nav-link" })</li>
-        </ul>*@
+                        <li>@Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                        <li>@Html.ActionLink("Register Student", "Register", "Students", new { area = "" }, new { @class = "nav-link" })</li>
+                        <li>@Html.ActionLink("About", "About", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                        <li>@Html.ActionLink("Contact", "Contact", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    </ul>*@
                 <ul class="navbar-nav flex-grow-1">
                     @Html.Partial("_Header")
-            </ul>
+                </ul>
             </div>
         </div>
     </nav>

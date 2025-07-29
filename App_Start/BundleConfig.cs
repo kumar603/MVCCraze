@@ -3,6 +3,25 @@ using System.Web.Optimization;
 
 namespace MVCraze
 {
+    /*****************************************************************************************************
+      Writer       : Kiran Kumar J
+      Description  : Bubdle Minification of the files to optimize the code
+      Created Date : 29 - July - 2025
+      Created By   : Kiran Kumar
+      Changed Date : 29 - July - 2025
+      Changed By   : Kiran Kumar
+      JIRA ID      : https://kiranjuvvanapudi.atlassian.net/browse/AMAECR-7
+*****************************************************************************************************/
+    /*
+     * Important keywords or logic statements
+     * Bundling  : Combines multiple files into one file
+     * Minification : Reduces file size by removing unnecessary character 
+     * ISystem.Web.Optimization : Enables bundling/minification in ASP.NET Core, an open-source web development framework | .NET  MVC
+     *  BundleConfig.cs : RegisterBundles(BundleCollection bundles) ,bundles.Add(new StyleBundle("~/Content/css").Include
+     *                    bundles.Add(new ScriptBundle("~/bundles/jquery").Include("~/Scripts/jquery-{version}.js"));
+     *                    bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include("~/Scripts/bootstrap.js"));
+     *                    BundleTable.EnableOptimizations = true;
+     */
     public class BundleConfig
     {
         // For more information on bundling, visit https://go.microsoft.com/fwlink/?LinkId=301862
